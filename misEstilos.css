@@ -144,6 +144,11 @@ body{
         text-align: center;
     }
 
+    .font-second{
+        font-size: 12px;
+        text-align: center;
+    }
+
     .estrellas{
         margin-top: 10px;
     }
@@ -191,6 +196,11 @@ body{
         text-align: center;
     }
 
+    .font-second{
+        font-size: 12px;
+        text-align: center;
+    }
+
     .estrellas{
         margin-top: 10px;
     }
@@ -232,13 +242,14 @@ body{
         text-align: left;
     }
 
-    .cajas{
-        height: 273px;
-    }
-
     h1{
         font-size: 40px;
         margin-bottom: 10px;
+        text-align: left;
+    }
+
+    .font-second{
+        font-size: 14px;
         text-align: left;
     }
     
@@ -281,13 +292,14 @@ body{
         text-align: left;
     }
 
-    .cajas{
-        height: auto;
-    }
-
     h1{
         font-size: 40px;
         margin-bottom: 10px;
+        text-align: left;
+    }
+
+    .font-second{
+        font-size: 14px;
         text-align: left;
     }
     
